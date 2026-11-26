@@ -1,0 +1,18 @@
+[
+  {
+    "id": "main",
+    "label": "Main",
+    "branch": "main",
+    "path": "./",
+    "sha": "5d8dad8",
+    "date": "2026-11-26T01:43:46.958Z"
+  },
+  {
+    "id": "dev-0-3-1",
+    "label": "dev/0.3.1",
+    "branch": "dev/0.3.1",
+    "path": "branches/dev-0-3-1/",
+    "sha": "a6c328e",
+    "date": "2026-11-26T01:44:02.883Z"
+  }
+]
